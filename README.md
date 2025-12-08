@@ -1,16 +1,21 @@
-<!-- ================= HEADER ================= -->
+<!-- ================= PREMIUM HEADER ================= -->
 
 <p align="center">
   <img src="https://github.com/itsrahmat-code/itsrahmat-code/blob/main/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<h1 align="center">Hi, I'm <strong>Rahmat Ullah</strong> 👋</h1>
-<h3 align="center">Full Stack Java Developer | Web & Cloud Enthusiast</h3>
+<h1 align="center" style="font-size: 3rem;">
+  🚀 <strong>Rahmat Ullah</strong>
+</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=3E8BEA&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Angular+%7C+Flutter+%7C+Android;Spring+Boot+%7C+REST+API+%7C+MySQL;Building+Scalable+Digital+Solutions" />
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsrahmat-code&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/itsrahmat-code?label=Stars&style=for-the-badge&color=yellow" />
-  <img src="https://img.shields.io/github/followers/itsrahmat-code?label=Followers&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=itsrahmat-code&label=Profile+Views&color=blue&style=flat-square" />
+  <img src="https://img.shields.io/github/stars/itsrahmat-code?style=flat-square&color=yellow" />
+  <img src="https://img.shields.io/github/followers/itsrahmat-code?style=flat-square&color=blue" />
 </p>
 
 ---
@@ -86,19 +91,34 @@
 </div>
 
 ---
+<h1 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1829/1829582.png" width="40" /><br/>
+  🎨 Projects Showcase
+</h1>
 
-# 🎨 Project Showcase
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1829/1829582.png" width="45" />
+</p>
+
+<h1 align="center">🎨 Projects Showcase</h1>
+
+<h1 align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1829/1829582.png" width="40" /><br/>
+  🎨 <strong>Projects Showcase</strong>
+</h1>
+
 
 ---
 
 <div align="center">
 
-## 🟦 **Merchandise Management System — Flutter + Spring Boot**
+## 🟦 🚀 Merchandise Management System — Flutter + Spring Boot  
+*(Cross-Platform, Real-Time Inventory System)*
 
 </div>
 
 <p align="center">
-  <img width="100%" src="https://github.com/user-attachments/assets/24254b51-a0f2-49f8-be61-b0bb08a8101c" />
+  <img width="90%" src="https://github.com/user-attachments/assets/24254b51-a0f2-49f8-be61-b0bb08a8101c" />
 </p>
 
 <p align="center">
@@ -125,14 +145,14 @@ Real-time sales, supplier management, product tracking.
 
 <div align="center">
 
-## 🟥 **Merchandise Management System — Angular + Spring Boot**
+## 🟥 🌐 Merchandise Management System — Angular + Spring Boot  
+*(Full CMS Dashboard with PDF, Reports, Stock Monitoring)*  
 
 </div>
 
 <p align="center">
   <img width="80%" src="https://github.com/itsrahmat-code/learning-anguler-with-springboot/blob/main/screenshots/Dashboard_Main.png" />
 </p>
-
 <p align="center">
 A fully responsive web-based inventory system powered by  
 <strong>Angular • Spring Boot • MySQL</strong>.  
