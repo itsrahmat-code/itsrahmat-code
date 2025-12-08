@@ -25,8 +25,8 @@
 # 🌌 About Me
 
 💻 Full Stack Developer specializing in **Java Spring Boot**, **Angular**, **Flutter**, and **Android Development**  
-☁️ Cloud & backend enthusiast exploring **AWS**, **Microservices**, **Serverless**, and **GraphQL**  
-🎨 Love creating modern UI/UX with **Figma**, **Flutter** & **Angular Material**  
+☁️ Exploring **AWS**, **Microservices**, **Serverless**, and **GraphQL**  
+🎨 Love creating modern UI/UX with **Figma**, **Flutter**, and **Angular Material**
 
 </div>
 
@@ -85,23 +85,23 @@
 
 # 🌱 Currently Learning
 
-📌 Git Commands  
-📌 Node.js  
+📌 Git Commands  📌 Node.js
+
 
 </div>
 
 ---
+
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/itsrahmat-code/itsrahmat-code/main/icons/project%20icon.png" width="40" />
-   Projects Showcase
+  Projects Showcase
 </h1>
-
 
 ---
 
 <div align="center">
 
-## 🟦 🚀 Merchandise Management System — Flutter + Spring Boot  
+## 🚀 Merchandise Management System — Flutter + Spring Boot  
 *(Cross-Platform, Real-Time Inventory System)*
 
 </div>
@@ -112,21 +112,20 @@
 
 <p align="center">
 A cross-platform inventory management app built with  
-<strong>Flutter • Spring Boot • MySQL</strong>.  
+<strong>Flutter • Spring Boot • MySQL</strong>  
 Real-time sales, supplier management, product tracking.
 </p>
 
 <div align="center">
-  
+
 ### 🧰 Tech Stack  
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🔗 Project Link  
-<a href="https://github.com/itsrahmat-code/spring-meets-flutter">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+### 
+| 🔗 Project Link | <a href="https://github.com/itsrahmat-code/spring-meets-flutter"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a> |
+|---|---|
 
 </div>
 
@@ -134,7 +133,7 @@ Real-time sales, supplier management, product tracking.
 
 <div align="center">
 
-## 🟥 🌐 Merchandise Management System — Angular + Spring Boot  
+## 🌐 Merchandise Management System — Angular + Spring Boot  
 *(Full CMS Dashboard with PDF, Reports, Stock Monitoring)*  
 
 </div>
@@ -142,23 +141,24 @@ Real-time sales, supplier management, product tracking.
 <p align="center">
   <img width="80%" src="https://github.com/itsrahmat-code/learning-anguler-with-springboot/blob/main/screenshots/Dashboard_Main.png" />
 </p>
+
 <p align="center">
 A fully responsive web-based inventory system powered by  
-<strong>Angular • Spring Boot • MySQL</strong>.  
+<strong>Angular • Spring Boot • MySQL</strong>  
 Dashboard analytics, invoices, real-time stock monitoring.
 </p>
 
 <div align="center">
 
 ### 🧰 Tech Stack  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" /> 
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" /> 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 
-### 🔗 Project Link  
-<a href="https://github.com/itsrahmat-code/learning-anguler-with-springboot">
-  <img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+
+###
+| 🔗 Project Link | <a href="https://github.com/itsrahmat-code/learning-anguler-with-springboot"><img src="https://img.shields.io/badge/View%20on%20GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a> |
+|---|---|
 
 </div>
 
