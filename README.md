@@ -92,19 +92,8 @@
 
 ---
 <h1 align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1829/1829582.png" width="40" /><br/>
-  🎨 Projects Showcase
-</h1>
-
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1829/1829582.png" width="45" />
-</p>
-
-<h1 align="center">🎨 Projects Showcase</h1>
-
-<h1 align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1829/1829582.png" width="40" /><br/>
-  🎨 <strong>Projects Showcase</strong>
+  <img src="https://raw.githubusercontent.com/itsrahmat-code/itsrahmat-code/main/icons/project%20icon.png" width="40" />
+   Projects Showcase
 </h1>
 
 
