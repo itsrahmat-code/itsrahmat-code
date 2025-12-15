@@ -3,7 +3,6 @@
 <p align="center">
   <img src="https://github.com/itsrahmat-code/itsrahmat-code/blob/main/github-contribution-grid-snake-dark.svg" />
 </p>
-
 <h1 align="center" style="font-size: 3rem;">
   🚀 <strong>Rahmat Ullah</strong>
 </h1>
@@ -15,7 +14,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itsrahmat-code&label=Profile+Views&color=blue&style=flat-square" />
   <img src="https://img.shields.io/github/stars/itsrahmat-code?style=flat-square&color=yellow" />
-  <img src="https://img.shields.io/github/followers/itsrahmat-code?style=flat-square&color=blue" />
+ <img src="https://img.shields.io/github/followers/itsrahmat-code?style=flat-square&color=blue&cacheSeconds=300" />
+
 </p>
 
 ---
@@ -70,8 +70,8 @@
 
 # 📊 GitHub Stats
 
-<img src="https://img.shields.io/github/commit-activity/m/itsrahmat-code?style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/languages/top/itsrahmat-code?style=for-the-badge&color=green" />
+<img src="https://img.shields.io/github/commit-activity/m/itsrahmat-code/itsrahmat-code.github.io?style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/languages/top/itsrahmat-code/itsrahmat-code.github.io?style=for-the-badge&color=green" />
 
 <br/>
 
