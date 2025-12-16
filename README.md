@@ -13,9 +13,9 @@
 />
 
 <!-- Gifs -->
-<img src="NEW_FLAME_GIF_LEFT_URL" width="16px" align="left"/>
-<img src="NEW_FLAME_GIF_RIGHT_URL" width="16px" align="right"/>
-<img src="NEW_LINE_GIF_URL" width="100%"/>
+<img src="https://github.com/itsrahmat-code/itsrahmat-code/blob/main/assets/flame.gif" width="16px" align="left"/>
+<img src="https://github.com/itsrahmat-code/itsrahmat-code/blob/main/assets/flame.gif" width="16px" align="right"/>
+<img src="https://github.com/itsrahmat-code/itsrahmat-code/blob/main/assets/Line.gif" width="100%"/>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=1000&color=3E8BEA&center=true&vCenter=true&width=500&lines=Full+Stack+Java+Developer;Angular+%7C+Flutter+%7C+Android;Spring+Boot+%7C+REST+API+%7C+MySQL;Building+Scalable+Digital+Solutions" />
@@ -29,25 +29,22 @@
 
 ---
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 40px;">
+<div style="display: flex; align-items: center; justify-content: center;">
 
-  <!-- Left Side: Text -->
-  <div>
-    <h1>🌌 About Me</h1>
-    <p>💻 <strong>Full Stack Developer</strong><br>
-       Specializing in <strong>Java Spring Boot</strong>, <strong>Angular</strong>, <strong>Flutter</strong>, and <strong>Android Development</strong>
-    </p>
-    <p>☁️ <strong>Cloud & Backend Enthusiast</strong><br>
-       Exploring <strong>AWS</strong>, <strong>Microservices</strong>, <strong>Serverless</strong>, and <strong>GraphQL</strong>
-    </p>
-    <p>🎨 <strong>UI/UX Creator</strong><br>
-       Passionate about designing modern interfaces with <strong>Figma</strong>, <strong>Flutter</strong>, and <strong>Angular Material</strong>
-    </p>
-  </div>
 
-  <!-- Right Side: GIF -->
-  <div>
-    <img src="NEW_CODING_GIF_URL" alt="Coding GIF" width="300"/>
-  </div>
+ # 🌌 About Me
 
+💻 **Full Stack Developer**  
+Specializing in **Java Spring Boot**, **Angular**, **Flutter**, and **Android Development**  
+
+☁️ **Cloud & Backend Enthusiast**  
+Exploring **AWS**, **Microservices**, **Serverless**, and **GraphQL**  
+
+🎨 **UI/UX Creator**  
+Passionate about designing modern interfaces with **Figma**, **Flutter**, and **Angular Material**  
 </div>
+---
+
+<p align="center">
+  <img src="https://github.com/itsrahmat-code/itsrahmat-code/blob/main/assets/aa.gif" alt="Coding GIF" width="600"/>
+</p>
