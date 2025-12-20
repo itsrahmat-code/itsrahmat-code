@@ -51,9 +51,9 @@
 ---
 
 ### 🗄 Databases
-| MySQL |
-|--------|
-| ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge) |
+| MySQL | Firebase |
+|------|----------|
+| ![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge) | ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black) |
 
 ---
 
@@ -65,17 +65,34 @@
 </div>
 
 ---
-
 <div align="center">
 
-# 📊 GitHub Stats
+## 📊 GitHub Statistics
 
-<img src="https://img.shields.io/github/commit-activity/m/itsrahmat-code/itsrahmat-code.github.io?style=for-the-badge&color=blue" />
-<img src="https://img.shields.io/github/languages/top/itsrahmat-code/itsrahmat-code.github.io?style=for-the-badge&color=green" />
+<!-- Badges -->
+<p>
+  <img src="https://img.shields.io/github/commit-activity/m/itsrahmat-code/itsrahmat-code.github.io?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/languages/top/itsrahmat-code/itsrahmat-code.github.io?style=for-the-badge&logo=code&color=green" />
+</p>
 
-<br/>
+<!-- Stats Cards -->
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsrahmat-code&show_icons=true&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsrahmat-code&layout=compact&hide_border=true" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=itsrahmat-code&theme=light" height="160" />
+<!-- Streak Alternative -->
+<p>
+  <img height="165" src="https://github-readme-activity-graph.vercel.app/graph?username=itsrahmat-code&hide_border=true" />
+</p>
+
+---
+
+## 🛠️ Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,github&theme=light" />
+</p>
 
 </div>
 
@@ -85,7 +102,7 @@
 
 # 🌱 Currently Learning
 
-📌 Git Commands  📌 Node.js
+📌 Git Commands  📌 FireBase
 
 
 </div>
